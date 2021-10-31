@@ -1,7 +1,7 @@
 .App {
   text-align: center;
- 
-
+  
+  
 }
 #root{
   /* background-color:grey */
@@ -50,7 +50,7 @@
   margin-bottom: 3vh;
   position: relative;
   height: 70vh;
-  color: rgb(254, 255, 255);
+  color: antiquewhite;
 }
 
 

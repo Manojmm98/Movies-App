@@ -5,7 +5,7 @@ import { movies } from "./getMovies";
 export class Banner extends Component {
   // find the movie name
   render() {
-    let movie = movies.results[0];
+    let movie = movies.results[7];
     return (
       <>
            {   movie == ''?
